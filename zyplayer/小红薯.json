@@ -1,4 +1,4 @@
-﻿/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
+/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
 {
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -145,15 +145,6 @@
       "filterable": 1
       },
         //=/////////////////////////////=/////////////////////
-        {
-            "key": "Dm84",
-            "name": "巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
         {
             "key": "GUAZI",
             "name": "瓜子┃1080",
@@ -382,28 +373,80 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/NT动漫[漫].js"
         },
         {
-  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.space/ZYplayer/js/黑墙影视[自动].js",
-  "filterable": 1,
-  "key": "hipy_js_黑墙影视[自动]",
-  "name": "黑墙┃影视",
-  "quickSearch": 1,
-  "searchable": 1,
-  "type": 3
+            "key": "动漫岛",
+            "name": "动漫岛┃动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "ext": "https://10402.kstore.space/ZYplayer/js/动漫岛.js"
         },
         {
-            "key": "drpy_js_58动漫",
+            "key": "hipy_js_动漫巴士[漫]",
+            "name": "动漫┃巴士",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/动漫巴士[漫].js"
+        },
+        {
+            "key": "hipy_js_6V新版[磁]",
+            "name": "6V┃新版",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/6V新版[磁].js"
+        },
+       {
+            "key": "hipy_js_文才2[资]",
+            "name": "文才┃资源",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/文才2[资].js"
+        },
+        {
+            "key": "hipy_js_58动漫[漫]",
             "name": "58┃动漫",
             "type": 3,
-            "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-            "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/58动漫.js"
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/58动漫[漫].js"
         },
         {
-            "key": "drpy_js_奇米动漫",
+            "key": "hipy_js_奇米动漫[漫]",
             "name": "奇米┃动漫",
             "type": 3,
-            "api": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
-            "ext": "https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/奇米动漫.js"
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/奇米动漫[漫].js"
+        },
+       {
+            "key": "hipy_js_可可影视[优]",
+            "name": "可可┃影视",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/可可影视[优].js"
         },
         {
             "key": "hipy_js_磁力熊[磁]",
@@ -449,14 +492,14 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/ok资源[资].js"
         },
         {
-  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.space/ZYplayer/js/KimiVod.js",
-  "filterable": 1,
-  "key": "hipy_js_KimiVod",
-  "name": "Kimi┃Vod",
-  "quickSearch": 1,
-  "searchable": 1,
-  "type": 3
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+            "ext": "https://10402.kstore.space/ZYplayer/js/KimiVod.js",
+            "filterable": 1,
+            "key": "hipy_js_KimiVod",
+            "name": "Kimi┃Vod",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
         },
         {
             "key": "追剧迷",
@@ -523,14 +566,14 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/影视工场.js"
         },
         {
-  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.space/ZYplayer/js/没事影视.js",
-  "filterable": 1,
-  "key": "hipy_js_没事影视",
-  "name": "没事┃影视",
-  "quickSearch": 1,
-  "searchable": 1,
-  "type": 3
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+            "ext": "https://10402.kstore.space/ZYplayer/js/没事影视.js",
+            "filterable": 1,
+            "key": "hipy_js_没事影视",
+            "name": "没事┃影视",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
         },
         {
             "key": "hipy_js_网飞啦[自动]",
@@ -566,15 +609,26 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/星辰[优].js"
         },
         {
-            "key": "可可影视[优]_js",
-            "name": "‍可可┃影视",
+            "key": "hipy_js_荐片[优]",
+            "name": "荐片┃影视",
             "type": 3,
-            "api": "https://10402.kstore.space/家庭自用/lib/drpy2.min.js",
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.space/ZYplayer/js/可可影视[优].js"
+            "ext": "https://10402.kstore.space/ZYplayer/js/荐片[优].js"
+        },
+       {
+            "key": "hipy_js_旺旺影视",
+            "name": "旺旺┃影视",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/旺旺影视.js"
         },
         {
             "key": "碟调影视",
@@ -616,14 +670,14 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/TVB云播.js"
         },
         {
-  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.space/ZYplayer/js/毒蛇影视.js",
-  "filterable": 1,
-  "key": "hipy_js_毒蛇影视",
-  "name": "毒蛇┃影视",
-  "quickSearch": 1,
-  "searchable": 1,
-  "type": 3
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+            "ext": "https://10402.kstore.space/ZYplayer/js/毒蛇影视.js",
+            "filterable": 1,
+            "key": "hipy_js_毒蛇影视",
+            "name": "毒蛇┃影视",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
         },
         {
             "key": "人人影视_js",
@@ -637,14 +691,14 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/人人影视.js"
         },
         {
-  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.space/ZYplayer/js/星空影院[自动].js",
-  "filterable": 1,
-  "key": "hipy_js_星空影院[自动]",
-  "name": "星空┃影院",
-  "quickSearch": 1,
-  "searchable": 1,
-  "type": 3
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+            "ext": "https://10402.kstore.space/ZYplayer/js/星空影院[自动].js",
+            "filterable": 1,
+            "key": "hipy_js_星空影院[自动]",
+            "name": "星空┃影院",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
         },
         {
             "key": "茶杯狐_js",
@@ -656,6 +710,38 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "https://10402.kstore.space/ZYplayer/js/茶杯狐.js"
+        },
+      {
+            "key": "hipy_js_蛋蛋赞",
+            "name": "蛋蛋┃赞",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/蛋蛋赞.js"
+        },
+       {
+            "key": "hipy_js_烧火影视[优]",
+            "name": "烧火┃影视",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/烧火影视[优].js"
+        },
+        {
+  "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.js",
+  "ext": "https://10402.kstore.space/ZYplayer/js/爽爽短剧.js",
+  "filterable": 1,
+  "key": "hipy_js_爽爽短剧",
+  "name": "爽爽┃短剧",
+  "quickSearch": 1,
+  "searchable": 1,
+  "type": 3
         },
         {
             "key": "hipy_js_短剧TV网",
@@ -680,6 +766,202 @@
             "ext": "https://10402.kstore.space/ZYplayer/js/星芽短剧[优].js"
         },
         //=/////////////////////////////=////////////////////
+        {
+            "key": "盘Se",
+            "name": "盘Se┃搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "csp_QuPanSou",
+            "name": "趣盘搜┃搜索",
+            "type": 3,
+            "api": "csp_QuPanSou",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "米搜",
+            "name": "米搜┃搜索",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true,
+                "site": "https://www.misou.fun"
+            },
+            "timeout": 15
+        },
+        {
+            "key": "易搜",
+            "name": "易搜┃搜索",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "csp_Qkpanso",
+            "name": "夸克盘搜┃搜索",
+            "type": 3,
+            "api": "csp_Qkpanso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "夸搜",
+            "name": "夸搜┃搜索",
+            "type": 3,
+            "api": "csp_Qkso",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "云盘4K",
+            "name": "云盘4K┃搜索",
+            "type": 3,
+            "api": "csp_Yunpan4k",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+        {
+            "key": "影搜",
+            "name": "影搜┃搜索",
+            "type": 3,
+            "api": "csp_Yingso",
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
+                "cookie": "http://127.0.0.1:9978/file/tvbox/quark.txt",
+                "danmu": true
+            },
+            "timeout": 15
+        },
+{
+    "key": "hipy_js_360吧[球]",
+    "name": "360┃看球",
+    "type": 3,
+    "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+    "searchable": 1,
+    "playerType": "1",
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "https://10402.kstore.space/ZYplayer/js/360吧[球].js"
+},
+{
+    "key": "hipy_js_88看球[球]",
+    "name": "88┃看球",
+    "type": 3,
+    "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "https://10402.kstore.space/ZYplayer/js/88看球[球].js"
+},
+{
+    "key": "hipy_js_310直播[球]",
+    "name": "310直播┃球",
+    "type": 3,
+    "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "https://10402.kstore.space/ZYplayer/js/310直播[球].js"
+},
+{
+    "key": "hipy_js_926tv[球]",
+    "name": "926tv┃球",
+    "type": 3,
+    "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "https://10402.kstore.space/ZYplayer/js/926tv[球].js"
+},
+{
+    "key": "酷奇",
+    "name": "酷奇┃MV",
+    "type": 3,
+    "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+    "ext": "https://10402.kstore.space/ZYplayer/js/酷奇MV.js",
+    "style": {
+        "type": "rect",
+        "ratio": 1.597
+    },
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable": 0
+},
+     {
+            "key": "hipy_js_贝乐虎[儿]",
+            "name": "贝乐虎┃儿",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/贝乐虎[儿].js"
+        },
+      {
+            "key": "hipy_js_兔小贝[儿]",
+            "name": "兔小贝┃儿",
+            "type": 3,
+            "api": "https://10402.kstore.space/ZYplayer/libs/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://10402.kstore.space/ZYplayer/js/兔小贝[儿].js"
+        },
         {
             "key": "木耳",
             "name": "木耳┃秒播",
@@ -743,92 +1025,92 @@
                 "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
             }
         },
-{
-      "key": "360",
-      "name": "360┃采集",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "古装片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "现代都市",
-        "脑洞悬疑",
-        "年代穿越",
-        "古装仙侠",
-        "女频恋爱",
-        "成长逆袭",
-        "反转爽剧"
-      ]
-    },
-    {
-      "key": "爱坤",
-      "name": "爱坤┃采集",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod?",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "古装片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "爽文短剧"
-      ]
-    },
-{
-      "key": "暴风",
-      "name": "暴风┃采集",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod"
-    },
+        {
+            "key": "360",
+            "name": "360┃采集",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod?",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "古装片",
+                "悬疑片",
+                "犯罪片",
+                "灾难片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "欧美动漫",
+                "日韩动漫",
+                "现代都市",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "女频恋爱",
+                "成长逆袭",
+                "反转爽剧"
+            ]
+        },
+        {
+            "key": "爱坤",
+            "name": "爱坤┃采集",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod?",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "古装片",
+                "悬疑片",
+                "犯罪片",
+                "灾难片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "欧美动漫",
+                "日韩动漫",
+                "爽文短剧"
+            ]
+        },
+        {
+            "key": "暴风",
+            "name": "暴风┃采集",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
         {
             "key": "极速资源",
             "name": "极速┃采集",
