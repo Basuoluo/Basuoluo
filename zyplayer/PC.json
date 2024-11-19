@@ -1,4 +1,4 @@
-﻿/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
+/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
 {
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Basuoluo/Basuoluo/main/zyplayer/spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -133,7 +133,7 @@
                 "site": "https://tv.yydsys.top",
                 "danmu": true
               },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Basuoluo/Basuoluo/main/zyplayer/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
         },
         {
       "key": "欧歌网盘",
@@ -331,7 +331,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Basuoluo/Basuoluo/main/zyplayer/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
         },
         {
             "key": "糯米弹幕",
@@ -344,7 +344,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Basuoluo/Basuoluo/main/zyplayer/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
         },
         {
             "key": "金牌影视",
@@ -354,7 +354,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Basuoluo/Basuoluo/main/zyplayer/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
         },
         //=/////////////////////////////=////////////////////
         {
