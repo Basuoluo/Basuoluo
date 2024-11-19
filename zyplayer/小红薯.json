@@ -1,4 +1,4 @@
-﻿/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
+/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
 {
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -7,7 +7,7 @@
         {
             "name": "✨小红薯✨",
             "type": 0,
-            "url": "https://10402.kstore.vip/1492114.txt",
+            "url": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/1492114.txt",
             "epg": ""
         }
     ],
@@ -133,7 +133,7 @@
                 "site": "https://tv.yydsys.top",
                 "danmu": true
               },
-            "jar": "https://10402.kstore.vip/家庭自用/spider1.jar"
+            "jar": "./家庭自用/spider1.jar"
         },
         {
       "key": "欧歌网盘",
@@ -331,7 +331,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://10402.kstore.vip/家庭自用/spider1.jar"
+            "jar": "./家庭自用/spider1.jar"
         },
         {
             "key": "糯米弹幕",
@@ -344,7 +344,7 @@
             "ext": {
                 "danmu": true
             },
-            "jar": "https://10402.kstore.vip/家庭自用/spider1.jar"
+            "jar": "./家庭自用/spider1.jar"
         },
         {
             "key": "金牌影视",
@@ -354,7 +354,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://10402.kstore.vip/家庭自用/spider1.jar"
+            "jar": "./家庭自用/spider1.jar"
         },
         //=/////////////////////////////=////////////////////
         {
@@ -375,19 +375,19 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/哔哩视频.js"
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/哔哩视频.js"
         },
         {
             "key": "hipy_js_NT动漫[漫]",
             "name": "NT┃动漫",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/NT动漫[漫].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/NT动漫[漫].js"
         },
         {
             "key": "动漫岛",
@@ -396,96 +396,96 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/动漫岛.js"
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/动漫岛.js"
         },
         {
             "key": "hipy_js_动漫巴士[漫]",
             "name": "动漫┃巴士",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/动漫巴士[漫].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/动漫巴士[漫].js"
         },
         {
             "key": "hipy_js_6V新版[磁]",
             "name": "6V┃新版",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/6V新版[磁].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/6V新版[磁].js"
         },
        {
             "key": "hipy_js_文才2[资]",
             "name": "文才┃资源",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/文才2[资].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/文才2[资].js"
         },
         {
             "key": "hipy_js_58动漫[漫]",
             "name": "58┃动漫",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/58动漫[漫].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/58动漫[漫].js"
         },
         {
             "key": "hipy_js_奇米动漫[漫]",
             "name": "奇米┃动漫",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/奇米动漫[漫].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/奇米动漫[漫].js"
         },
        {
             "key": "hipy_js_可可影视[优]",
             "name": "可可┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/可可影视[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/可可影视[优].js"
         },
         {
             "key": "hipy_js_磁力熊[磁]",
             "name": "磁力┃熊",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/磁力熊[磁].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/磁力熊[磁].js"
         },
         {
             "key": "厂长资源_js",
             "name": "‍厂长┃资源",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/厂长资源.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/厂长资源.js"
         },
         {
             "key": "奈飞影视",
@@ -495,22 +495,22 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://10402.kstore.vip/家庭自用/lib/ynfys.json"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/ynfys.json"
         },
         {
             "key": "hipy_js_ok资源[资]",
             "name": "ok┃资源",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/ok资源[资].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/ok资源[资].js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/KimiVod.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/KimiVod.js",
             "filterable": 1,
             "key": "hipy_js_KimiVod",
             "name": "Kimi┃Vod",
@@ -525,12 +525,12 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/追剧迷.js"
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/追剧迷.js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/韩剧网.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/韩剧网.js",
             "filterable": 1,
             "key": "hipy_js_韩剧网",
             "name": "韩剧┃网",
@@ -542,49 +542,49 @@
             "key": "hipy_js_GO影视",
             "name": "GO┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/GO影视.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/GO影视.js"
         },
         {
             "key": "hipy_js_影视工厂",
             "name": "影视┃工厂",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/影视工厂.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/影视工厂.js"
         },
         {
             "key": "hipy_js_歪片星球[资]",
             "name": "歪片┃星球",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/歪片星球[资].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/歪片星球[资].js"
         },
         {
             "key": "hipy_js_影视工场",
             "name": "影视┃工场",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/影视工场.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/影视工场.js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/没事影视.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/没事影视.js",
             "filterable": 1,
             "key": "hipy_js_没事影视",
             "name": "没事┃影视",
@@ -596,67 +596,67 @@
             "key": "hipy_js_网飞啦[自动]",
             "name": "网飞┃啦",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/网飞啦[自动].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/网飞啦[自动].js"
         },
         {
             "key": "hipy_js_网飞猫[优]",
             "name": "网飞┃猫",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/网飞猫[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/网飞猫[优].js"
         },
         {
             "key": "hipy_js_星辰[优]",
             "name": "星辰┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/星辰[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/星辰[优].js"
         },
         {
             "key": "hipy_js_荐片[优]",
             "name": "荐片┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/荐片[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/荐片[优].js"
         },
        {
             "key": "hipy_js_旺旺影视",
             "name": "旺旺┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/旺旺影视.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/旺旺影视.js"
         },
         {
             "key": "碟调影视",
             "name": "碟调┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/碟调影视.js"
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/碟调影视.js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/天天美剧.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/天天美剧.js",
             "filterable": 1,
             "key": "hipy_js_天天美剧",
             "name": "天天┃美剧",
@@ -668,27 +668,27 @@
             "key": "hipy_js_美剧窝",
             "name": "美剧┃窝",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/美剧窝.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/美剧窝.js"
         },
         {
             "key": "hipy_js_TVB云播",
             "name": "TVB┃云播",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/TVB云播.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/TVB云播.js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/毒蛇影视.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/毒蛇影视.js",
             "filterable": 1,
             "key": "hipy_js_毒蛇影视",
             "name": "毒蛇┃影视",
@@ -700,16 +700,16 @@
             "key": "人人影视_js",
             "name": "‍人人┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/人人影视.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/人人影视.js"
         },
         {
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-            "ext": "https://10402.kstore.vip/ZYplayer/js/星空影院[自动].js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/星空影院[自动].js",
             "filterable": 1,
             "key": "hipy_js_星空影院[自动]",
             "name": "星空┃影院",
@@ -721,38 +721,38 @@
             "key": "茶杯狐_js",
             "name": "‍茶杯┃狐",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/茶杯狐.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/茶杯狐.js"
         },
       {
             "key": "hipy_js_蛋蛋赞",
             "name": "蛋蛋┃赞",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/蛋蛋赞.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/蛋蛋赞.js"
         },
        {
             "key": "hipy_js_烧火影视[优]",
             "name": "烧火┃影视",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/烧火影视[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/烧火影视[优].js"
         },
         {
-  "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
-  "ext": "https://10402.kstore.vip/ZYplayer/js/爽爽短剧.js",
+  "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
+  "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/爽爽短剧.js",
   "filterable": 1,
   "key": "hipy_js_爽爽短剧",
   "name": "爽爽┃短剧",
@@ -764,23 +764,23 @@
             "key": "hipy_js_短剧TV网",
             "name": "短剧┃TV",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/短剧TV网.js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/短剧TV网.js"
         },
         {
             "key": "hipy_js_星芽短剧[优]",
             "name": "星芽┃短剧",
             "type": 3,
-            "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/星芽短剧[优].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/星芽短剧[优].js"
         },
         //=/////////////////////////////=////////////////////
         {
@@ -902,46 +902,46 @@
     "key": "hipy_js_360吧[球]",
     "name": "360┃看球",
     "type": 3,
-    "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+    "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
     "searchable": 1,
     "playerType": "1",
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "https://10402.kstore.vip/ZYplayer/js/360吧[球].js"
+    "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/360吧[球].js"
 },
 {
     "key": "hipy_js_88看球[球]",
     "name": "88┃看球",
     "type": 3,
-    "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+    "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "https://10402.kstore.vip/ZYplayer/js/88看球[球].js"
+    "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/88看球[球].js"
 },
 {
     "key": "hipy_js_310直播[球]",
     "name": "310直播┃球",
     "type": 3,
-    "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+    "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "https://10402.kstore.vip/ZYplayer/js/310直播[球].js"
+    "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/310直播[球].js"
 },
 {
     "key": "hipy_js_926tv[球]",
     "name": "926tv┃球",
     "type": 3,
-    "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+    "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "https://10402.kstore.vip/ZYplayer/js/926tv[球].js"
+    "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/926tv[球].js"
 },
 {
   "key": "hipy_js_jrk",
@@ -949,17 +949,17 @@
   "type": 3,
   "searchable": 1,
   "quickSearch": 1,
-  "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
+  "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.js",
   "filterable": 1,
-  "ext": "https://10402.kstore.vip/ZYplayer/js/jrk.js",
+  "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/jrk.js",
   "by": "current"
 },
 {
     "key": "酷奇",
     "name": "酷奇┃MV",
     "type": 3,
-    "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
-    "ext": "https://10402.kstore.vip/ZYplayer/js/酷奇MV.js",
+    "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
+    "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/酷奇MV.js",
     "style": {
         "type": "rect",
         "ratio": 1.597
@@ -972,23 +972,23 @@
             "key": "hipy_js_贝乐虎[儿]",
             "name": "贝乐虎┃儿",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/贝乐虎[儿].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/贝乐虎[儿].js"
         },
       {
             "key": "hipy_js_兔小贝[儿]",
             "name": "兔小贝┃儿",
             "type": 3,
-            "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.min.js",
+            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "order_num": 0,
-            "ext": "https://10402.kstore.vip/ZYplayer/js/兔小贝[儿].js"
+            "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/兔小贝[儿].js"
         },
         {
             "key": "木耳",
