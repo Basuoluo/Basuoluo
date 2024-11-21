@@ -152,6 +152,24 @@
       },
       "timeout": 25
      },
+        {
+    "key": "六趣网盘",
+    "name": "六趣┃网盘",
+    "type": 3,
+    "api": "csp_Wobg",
+    "jar": "https://jk.123zy.cool/jar/danmu.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+        "site": "https://wp.0v.fit/",
+        "danmu": true
+    }
+},
       {
       "key": "csp_SeedHub",
       "name": "Seed┃Hub",
