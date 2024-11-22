@@ -132,8 +132,7 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
-              },
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+              }
         },
         {
       "key": "欧歌网盘",
@@ -152,7 +151,7 @@
       },
       "timeout": 25
      },
-        {
+    {
     "key": "六趣网盘",
     "name": "六趣┃网盘",
     "type": 3,
