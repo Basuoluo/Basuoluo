@@ -441,6 +441,16 @@
             "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/lib/drpy2.min.js",
             "ext": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/js/哔哩视频.js"
         },
+        {
+  "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
+  "ext": "https://10402.kstore.vip/ZYplayer/js/哩咕TV.js",
+  "filterable": 1,
+  "key": "hipy_js_哩咕TV",
+  "name": "哩咕┃TV",
+  "quickSearch": 1,
+  "searchable": 1,
+  "type": 3
+},
 {
             "api": "https://10402.kstore.vip/ZYplayer/libs/drpy2.js",
             "ext": "https://10402.kstore.vip/ZYplayer/js/4K影视.js",
