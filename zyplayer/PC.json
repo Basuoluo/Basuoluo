@@ -508,28 +508,28 @@
  //=/////////////////////////////=////////////////////
 {
             "key": "腾讯弹幕",
-            "name": "腾讯┃弹幕",
+            "name": "TT┃弹幕",
             "type": 3,
             "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
             "ext": "https://10402.kstore.vip/ZYplayer/js/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
-            "name": "优酷┃弹幕",
+            "name": "酷酷┃弹幕",
             "type": 3,
             "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
             "ext": "https://10402.kstore.vip/ZYplayer/js/优酷弹幕.js"
         },
         {
             "key": "芒果弹幕",
-            "name": "芒果┃弹幕",
+            "name": "果果┃弹幕",
             "type": 3,
             "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
             "ext": "https://10402.kstore.vip/ZYplayer/js/芒果弹幕.js"
         },
         {
             "key": "爱奇艺弹幕",
-            "name": "爱奇艺┃弹幕",
+            "name": "QY┃弹幕",
             "type": 3,
             "api": "https://10402.kstore.vip/家庭自用/lib/drpy2.min.js",
             "ext": "https://10402.kstore.vip/ZYplayer/js/爱奇艺弹幕.js"
@@ -564,7 +564,7 @@
         },
         {
             "key": "三六零弹幕",
-            "name": "三六零┃弹幕",
+            "name": "三六┃弹幕",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
