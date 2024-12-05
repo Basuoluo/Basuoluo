@@ -1,4 +1,4 @@
-﻿/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
+/////此接口资源来自网上众线路的大佬，向大佬们致敬，禁止商用
 {
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
@@ -51,7 +51,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
         {
             "key": "蜡笔网盘",
@@ -214,7 +214,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
         {
             "key": "雷鲸",
@@ -223,7 +223,7 @@
             "api": "csp_Wexleijing",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
         {
             "key": "天翼",
@@ -232,7 +232,7 @@
             "api": "csp_Wextyso",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
         {
             "key": "Emby",
@@ -241,7 +241,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/spider1.jar"
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
 {
             "key": "阿里合集",
