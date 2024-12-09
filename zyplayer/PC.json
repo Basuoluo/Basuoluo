@@ -234,6 +234,14 @@
             "changeable": 0,
             "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
         },
+       {"key":"盘他",
+      "name":"移动┃网盘",
+      "type":3,
+      "api":"csp_WexYDpanta",
+      "searchable":1,
+      "changeable":1,
+      "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/wex.txt"
+       },
         {
             "key": "Emby",
             "name": "Emby┃网盘",
