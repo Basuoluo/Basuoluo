@@ -1,0 +1,57 @@
+﻿[ 
+  {
+    "name": "配置说明",
+    "list": [
+      {
+        "name": "下载Allinone文件",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "刷新接口",
+        "url": "",
+        "icon": ""
+      },
+      {
+        "name": "打开肥羊直播",
+        "url": "",
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "name": "Allinone",
+    "list": [
+      {
+        "name": "当前版本",
+        "url": "",
+        "icon": "http://127.0.0.1:9978/file/TVBox/.allinone.png",
+        "version": ""
+      },
+      {
+        "name": "稳定版 32位",
+        "url": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/allinone32.zip",
+        "icon": "",
+        "version": "1.0"
+      },  
+      {
+        "name": "稳定版 64位",
+        "url": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/allinone64.zip",
+        "icon": "",
+        "version": "1.0"
+      },
+      {
+        "name": "测试版 32位",
+        "url": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/allinone%E6%B5%8B%E8%AF%9532.zip",
+        "icon": "",
+        "version": "1.0"
+      },  
+      {
+        "name": "测试版 64位",
+        "url": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/allinone%E6%B5%8B%E8%AF%9564.zip",
+        "icon": "",
+        "version": "1.0"
+      }
+    ]
+  }
+]
