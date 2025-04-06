@@ -1,0 +1,703 @@
+﻿{
+    "spider": "./spider.jar",
+    "sites": [
+        {
+            "key": "hipy_js_独家",
+            "name": "请低调食用",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG.js"
+        },    
+        {
+            "key": "TG目录",
+            "name": "TG0",
+            "type": 3,
+            "api": "./TG目录.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },       
+        {
+            "key": "hipy_js_独家1",
+            "name": "TG1",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG1.js"
+        },       
+        {
+            "key": "hipy_js_独家2",
+            "name": "TG2",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG2.js"
+        }, 
+        {
+            "key": "hipy_js_独家3",
+            "name": "TG3",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG3.js"
+        },       
+        {
+            "key": "hipy_js_独家4",
+            "name": "TG4",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG4.js"
+        }, 
+        {
+            "key": "hipy_js_独家5",
+            "name": "TG5",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG5.js"
+        },       
+        {
+            "key": "hipy_js_独家6",
+            "name": "TG6(需魔法)",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG6.js"
+        }, 
+        {
+            "key": "hipy_js_独家7",
+            "name": "TG7(需魔法)",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG7.js"
+        },       
+        {
+            "key": "hipy_js_独家8",
+            "name": "TG8",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG8.js"
+        }, 
+        {
+            "key": "hipy_js_独家9",
+            "name": "TG9",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG9.js"
+        },       
+        {
+            "key": "hipy_js_独家10",
+            "name": "TG10(需魔法)",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG10.js"
+        }, 
+        {
+            "key": "hipy_js_独家11",
+            "name": "TG11",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG11.js"
+        },
+        {
+            "key": "hipy_js_独家12",
+            "name": "TG12",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG12.js"
+        },
+        {
+            "key": "hipy_js_独家13",
+            "name": "TG13",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG13.js"
+        },
+        {
+            "key": "hipy_js_独家14",
+            "name": "TG14",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG14.js"
+        },
+        {
+            "key": "hipy_js_独家15",
+            "name": "TG15",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG15.js"
+        },
+        {
+            "key": "hipy_js_独家16",
+            "name": "TG16",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG16.js"
+        },
+        {
+            "key": "hipy_js_独家17",
+            "name": "TG17",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG17.js"
+        },
+        {
+            "key": "hipy_js_独家18",
+            "name": "TG18",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG18.js"
+        },
+        {
+            "key": "hipy_js_独家19",
+            "name": "TG19",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG19.js"
+        },       
+        {
+            "key": "hipy_js_独家20",
+            "name": "TG20(需魔法)",
+            "type": 3,
+            "api": "./libs/drpy2.min.js",
+            "ext": "./TG20.js"
+        },
+        {
+      "key": "丝袜┃采集",
+      "name": "采集1",
+      "type": 0,
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }, 
+        {
+      "key": "美少女┃采集",
+      "name": "采集2",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
+    {
+      "key": "白嫖┃采集",
+      "name": "采集3",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "淫水机┃采集",
+      "name": "采集4",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "香奶儿┃采集",
+      "name": "采集5",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
+    {
+      "key": "大地┃采集",
+      "name": "采集6",
+      "type": 0,
+      "api": "https://dadiapi.com/apple_m3u8.php",
+      "playUrl": "https://play.dadiapi.com/watch?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },           
+    {
+      "key": "乐播┃采集",
+      "name": "采集7",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "番号┃采集",
+      "name": "采集8",
+      "type": 0,
+      "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },         
+    {
+      "key": "色猫┃采集",
+      "name": "采集9",
+      "type": 0,
+      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },        
+    {
+      "key": "91麻豆┃采集",
+      "name": "采集10(需魔法)",
+      "type": 1,
+      "api": "http://91md.me/api.php/provide/vod",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },   
+    {
+      "key": "AIvin┃采集",
+      "name": "采集11",
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "色南国┃采集",
+      "name": "采集12",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },        
+    {
+      "key": "黄AV┃采集",
+      "name": "采集13",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
+    {
+      "key": "滴滴┃采集",
+      "name": "采集14",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "玉兔┃采集",
+      "name": "采集15",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "155┃采集",
+      "name": "采集16",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "森林┃采集",
+      "name": "采集17",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "CK┃采集",
+      "name": "采集18",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "老色逼┃采集",
+      "name": "采集19",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod"
+    },    
+            {
+      "key": "优异┃采集",
+      "name": "采集20",
+      "type": 1,
+      "api": "https://a.uezy.pw/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }     
+    ],
+    "parses": [
+        {
+            "name": "聚合1",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "聚合0",
+            "type": 3,
+            "url": "Web"
+        }
+    ],
+    "flags": [
+        "imgo",
+        "youku",
+        "qq",
+        "qq 预告及花絮",
+        "iqiyi",
+        "qiyi",
+        "fun",
+        "letv",
+        "leshi",
+        "sohu",
+        "tudou",
+        "xigua",
+        "cntv",
+        "1905",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bilibili",
+        "renrenmi"
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "ads": [
+        "mozai.4gtv.tv"
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "农民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驴",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "czzy",
+            "hosts": [
+                "10086.cn"
+            ],
+            "regex": [
+                "/storageWeb/servlet/downloadServlet"
+            ]
+        },
+        {
+            "name": "bdys",
+            "hosts": [
+                "bytetos.com",
+                "byteimg.com",
+                "bytednsdoc.com",
+                "pstatp.com"
+            ],
+            "regex": [
+                "/tos-cn"
+            ],
+            "exclude": [
+                ".m3u8"
+            ]
+        },
+        {
+            "name": "bdys10",
+            "hosts": [
+                "bdys10.com"
+            ],
+            "regex": [
+                "/obj/"
+            ],
+            "exclude": [
+                ".m3u8"
+            ]
+        }
+    ]
+}
