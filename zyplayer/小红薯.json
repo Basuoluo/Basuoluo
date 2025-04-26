@@ -4,6 +4,12 @@
     "logo": "https://like.xn--z7x900a.com/panda/0262.png",
     "lives": [
         {
+            "name": "IPTV",
+            "type": 0,
+            "url": "https://10402.kstore.vip/SG.txt",
+            "timeout": 10
+        },
+        {
             "name": "咪咕赛事",
             "type": 0,
             "url": "https://yun.urldwz.com/f/Q6y3ca/migu.m3u",
