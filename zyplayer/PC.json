@@ -24,7 +24,25 @@
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
             "timeout": 10,
             "playerType": 2
-        },      
+        },  
+        {
+      "name": "快直播电视(python)",
+      "type": 3,
+      "api": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/py/kzbty.py",
+      "ext": {}
+    },
+    {
+      "name": "快直播体育(python)",
+      "type": 3,
+      "api": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/py/kzb.py",
+      "ext": {}
+    },
+    {
+      "name": "yoo体育(python)",
+      "type": 3,
+      "api": "https://10402.kstore.vip/%E5%AE%B6%E5%BA%AD%E8%87%AA%E7%94%A8/py/yoozb.py",
+      "ext": {}
+    },
         {
             "name": "虎牙一起看",
             "type": 3,
