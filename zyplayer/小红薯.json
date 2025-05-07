@@ -158,15 +158,15 @@
             "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/网络直播.py"
         },       
         {
-            "key": "影探4K",
+            "key": "影探",
             "name": "影探┃4K",
             "type": 3,
-            "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/剧探.py",
+            "api": "csp_AppYsV2",
             "searchable": 1,
-            "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2
+            "playerType": 2,
+            "ext": "http://csym.lyyytv.cn/api.php/app/"
         },
         {        
             "key": "金牌影视",
