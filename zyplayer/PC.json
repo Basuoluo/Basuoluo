@@ -156,7 +156,29 @@
             "name": "网络┃直播",
             "type": 3,
             "api": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/网络直播.py"
-        },        
+        },   
+        {
+            "key": "AppQT",
+            "name": "晴天┃4K",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "w6/ClsOAw4rDosKWe8KVwrFbwq7Cj8KUw4LDn8KlYWJrW8Kgwo/ClMOFw5PClMKiwqnCqMKowr/DlMOmwojCqFFXwpLCq8Kgw6HCpMKhwpLCpVjCrQ==",
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/qx.jar"
+        },
+        {
+            "key": "AppJSU",
+            "name": "秒映┃4K",
+            "type": 3,
+            "api": "csp_AppGetApp",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "w6/ClsOAw4rDosKWe8KVwrFbwq7Cj8KUw4LDmMKkYWJrW8Kgwo/ClMOFw5PClMKiwqnCqMKowr/DlMOmwojCqFFXwpLCq8Kgw6HCpMKhwpLCpVjCrQ==",
+            "jar": "https://gitee.com/lliu1810222/zyplayer/raw/master/box/qx.jar"
+        },
         {
             "key": "AppMQXH",
             "name": "幕启┃4K",
